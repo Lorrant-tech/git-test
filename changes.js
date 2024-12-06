@@ -5,3 +5,5 @@ console.log("version SSH");
 console.log("version 11");
 console.log("Version 11.2");
 console.log("Version 11.3");
+console.log("Version 11.4");
+console.log("Version 12");
